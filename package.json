@@ -1,5 +1,5 @@
 {
-  "name": "notion-next",
+  "name": "BARU",
   "version": "4.8.3",
   "homepage": "https://github.com/tangly1024/NotionNext.git",
   "license": "MIT",
@@ -8,8 +8,8 @@
     "url": "https://github.com/tangly1024/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
+    "name": "ALLEN",
+    "email": "cyychad@gmail.com",
     "url": "http://tangly1024.com"
   },
   "scripts": {
@@ -73,6 +73,6 @@
   },
   "bugs": {
     "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "email": "cyychad@gmail.com"
   }
 }
