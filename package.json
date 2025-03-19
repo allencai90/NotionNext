@@ -1,16 +1,16 @@
 {
   "name": "BARU",
   "version": "4.8.3",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/tangly1024/Notion",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/tangly1024/Notion"
   },
   "author": {
     "name": "ALLEN",
     "email": "cyychad@gmail.com",
-    "url": "http://tangly1024.com"
+    "url": "http://tangly102.com"
   },
   "scripts": {
     "dev": "next dev",
